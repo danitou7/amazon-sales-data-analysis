@@ -11,6 +11,7 @@ This project analyzes Amazon sales data to identify revenue trends, regional per
 
 ## Dataset
 The dataset contains Amazon order records including product category, sales revenue, shipping location, and order status.
+Note: Original dataset is ~68MB. For demonstration purposes, this repository uses a 5% random sample of the data.
 
 ## Key Questions
 - Which product categories generate the most revenue?
