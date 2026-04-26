@@ -4,10 +4,9 @@
 This project analyzes Amazon sales data to identify revenue trends, regional performance, and order status distribution.
 
 ## Tools Used
-- Python
-- Pandas
-- Matplotlib
+- Python 3
 - Jupyter Notebook
+- pandas, matplotlib, seaborn
 
 ## Dataset
 The dataset contains Amazon order records including product category, sales revenue, shipping location, and order status.
