@@ -26,19 +26,26 @@ Note: Original dataset is ~68MB. For demonstration purposes, this repository use
 - A noticeable percentage (14.2%) of orders were cancelled.
 - Orders are most frequently placed on **Sundays**, although daily variation is relatively low (±16%).
 
-## Visualizations
+### 📈 Visualizations & Insights
 
-### Monthly Revenue Trend
+#### Monthly Revenue Trend
 ![Revenue Trend](images/revenue_trend.png)
+*Revenue peaked in April 2022, while the low figures in March are due to incomplete data.*
 
-### Top States by Revenue
+#### Revenue by Product Category
+
+![Category Revenue](images/category_revenue.png)
+
+*The 'Set' category accounts for nearly 50% of total revenue, identifying it as the primary driver of business growth.*
+
+#### Top 10 States by Revenue
 ![Top States](images/top_states.png)
+*Maharashtra emerges as the leading market by total revenue, followed closely by Karnataka.*
 
-### Top Cities by Revenue
+#### Top 5 Cities by Revenue
 ![Top Cities](images/top_cities.png)
+*Bengaluru is the highest-performing city, suggesting strong purchasing power in India’s major tech hubs.*
 
-### Revenue by Product Category
-![Revenue by Product Category](images/category_revenue.png)
-
-### Order Status Distribution
+#### Order Status Distribution
 ![Order Status](images/order_status.png)
+*A significant cancellation rate of 14.2% represents a key business challenge that requires further investigation.*
