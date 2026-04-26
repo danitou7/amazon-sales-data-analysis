@@ -24,7 +24,7 @@ Note: Original dataset is ~68MB. For demonstration purposes, this repository use
 - **Maharashtra** generates the highest revenue among states.
 - Sales peaked in **Aprfil 2022**.
 - A noticeable percentage (14.2%) of orders were cancelled.
-- Orders are most frequently placed on **Sundays**.
+- Orders are most frequently placed on **Sundays**, although daily variation is relatively low (±16%).
 
 ## Visualizations
 
