@@ -34,5 +34,11 @@ Note: Original dataset is ~68MB. For demonstration purposes, this repository use
 ### Top States by Revenue
 ![Top States](images/top_states.png)
 
+### Top Cities by Revenue
+![Top Cities](images/top_cities.png)
+
+### Revenue by Product Category
+![Revenue by Product Category](images/category_revenue.png)
+
 ### Order Status Distribution
 ![Order Status](images/order_status.png)
