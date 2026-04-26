@@ -29,7 +29,7 @@ Note: Original dataset is ~68MB. For demonstration purposes, this repository use
 ### 📈 Visualizations & Insights
 
 #### Monthly Revenue Trend
-![Revenue Trend](images/revenue_trend.png)
+![Revenue Trend](amazon-sales-da/images/revenue_trend.png)
 *Revenue peaked in April 2022, while the low figures in March are due to incomplete data.*
 
 #### Revenue by Product Category
