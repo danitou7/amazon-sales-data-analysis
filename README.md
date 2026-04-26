@@ -34,18 +34,18 @@ Note: Original dataset is ~68MB. For demonstration purposes, this repository use
 
 #### Revenue by Product Category
 
-![Category Revenue](images/category_revenue.png)
+![Category Revenue](amazon-sales-da/images/category_revenue.png)
 
 *The 'Set' category accounts for nearly 50% of total revenue, identifying it as the primary driver of business growth.*
 
 #### Top 10 States by Revenue
-![Top States](images/top_states.png)
+![Top States](amazon-sales-da/images/top_states.png)
 *Maharashtra emerges as the leading market by total revenue, followed closely by Karnataka.*
 
 #### Top 5 Cities by Revenue
-![Top Cities](images/top_cities.png)
+![Top Cities](amazon-sales-da/images/top_cities.png)
 *Bengaluru is the highest-performing city, suggesting strong purchasing power in India’s major tech hubs.*
 
 #### Order Status Distribution
-![Order Status](images/order_status.png)
+![Order Status](amazon-sales-da/images/order_status.png)
 *A significant cancellation rate of 14.2% represents a key business challenge that requires further investigation.*
